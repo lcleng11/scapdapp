@@ -12,17 +12,17 @@
 <img src="imgs/001.jpg" width="50%">
 <br/>
 * 在发布应用页面填写发布内容
-<img src="imgs/002.jpg">
+<img src="imgs/002.jpg" width="50%">
 <br/>
 * 填写完成后会生成账单
-<img src="imgs/003.jpg">
+<img src="imgs/003.jpg" width="50%">
 <br/>
 * 也可以选择不同的币种进行支付
-<img src="imgs/004.jpg">
+<img src="imgs/004.jpg" width="50%">
 <br/>
 * 支付完成后等待客户审核，审核进度可以在 "我的" -> "我的发布" 中进行查看
-<img src="imgs/005.jpg">
+<img src="imgs/005.jpg" width="50%">
 <br/>
 * 审核成功后在 "发现" -> "DAPP" 页面出现对应的 DAPP
-<img src="imgs/006.jpg">
+<img src="imgs/006.jpg" width="50%">
 <br/>
