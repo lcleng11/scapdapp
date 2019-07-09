@@ -68,6 +68,7 @@ App = {
 						alert(error)
 					} else {
 						for (i = 0; i < adopters.length; i++) {
+							alert(adopters[i])
 							if (adopters[i] !== '0x0000000000000000000000000000000000000000') {
 								$('.panel-pet').eq(i).find('button').text('Success').attr('disabled', true);
 							}
