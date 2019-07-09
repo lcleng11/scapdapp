@@ -9,7 +9,7 @@
 ### 2. 在 SCAP 上发布 DAPP
 * 先下载 SCAP 并创建账户 [下载地址](https://www.facelesss.com/topic/194)
 * 在 "我的" -> "发布广告"
-<img src="imgs/001.jpg">
+<img src="imgs/001.jpg" style="width:50%">
 <br/>
 * 在发布应用页面填写发布内容
 <img src="imgs/002.jpg">
